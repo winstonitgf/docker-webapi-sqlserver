@@ -1,0 +1,14 @@
+/Users/user/Downloads/docker/myapi/bin/Debug/netcoreapp2.1/myapi.deps.json
+/Users/user/Downloads/docker/myapi/bin/Debug/netcoreapp2.1/myapi.runtimeconfig.json
+/Users/user/Downloads/docker/myapi/bin/Debug/netcoreapp2.1/myapi.runtimeconfig.dev.json
+/Users/user/Downloads/docker/myapi/bin/Debug/netcoreapp2.1/myapi.dll
+/Users/user/Downloads/docker/myapi/bin/Debug/netcoreapp2.1/myapi.pdb
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.csprojAssemblyReference.cache
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.csproj.CoreCompileInputs.cache
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.RazorAssemblyInfo.cache
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.RazorAssemblyInfo.cs
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.AssemblyInfoInputs.cache
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.AssemblyInfo.cs
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.RazorTargetAssemblyInfo.cache
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.dll
+/Users/user/Downloads/docker/myapi/obj/Debug/netcoreapp2.1/myapi.pdb
